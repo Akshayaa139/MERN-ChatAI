@@ -59,62 +59,59 @@
 
 1. **Clone the repo**  
 ```bash  
-git clone  https://github.com/Akshayaa139/MERN-ChatAI.git 
+git clone https://github.com/Akshayaa139/MERN-ChatAI.git
 cd PingMe  
+Install Dependencies
 
-
-2.Install Dependencies
 
 cd frontend-starter && npm install  
-cd backend && npm install  
+cd ../backend && npm install  
+Set up Environment Variables
 
-3. Set up environment variables
-Create .env in /backend:
 
-env
+Create a .env file in the /backend directory with the following:
+
+
 MONGO_URI=your_mongodb_connection_string  
 JWT_SECRET=your_jwt_secret_key  
 PORT=5000  
 
+Run the App
 
-4. Run the app
+Start the backend server:
 
-# Start server  
+
 cd backend && npm start  
+Start the frontend client:
 
-# Start client  
+
 cd frontend-starter && npm start  
 
-## 🌟 About the Developer
-
+🌟 About the Developer
 <div align="center">
+👋 Hi! I'm Akshayaa, a passionate CS student specializing in full-stack development. PingMe was born from my fascination with real-time systems and modern UI design principles.
 
-👋 Hi! I'm **Akshayaa**, a passionate CS student specializing in full-stack development. PingMe was born from my fascination with real-time systems and modern UI design principles.
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshayaa139.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayaa-prakash-656316290)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshayaa139)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshlearn13@gmail.com)
+
+
 
 
 </div>
-
-
-
 <div align="center">
-
-💬 **PingMe** and start chatting in **real-time!** 🚀
-
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/PingMe.svg?style=social)]( https://github.com/Akshayaa139/MERN-ChatAI.git)
-[![Fork on GitHub](https://img.shields.io/github/forks/yourusername/PingMe.svg?style=social)]( https://github.com/Akshayaa139/MERN-ChatAI.git)
-
-```bash
-# Show some love
-git clone  https://github.com/Akshayaa139/MERN-ChatAI.git
-
-Made with ❤️ by Akshayaa 
+💬 PingMe and start chatting in real-time! 🚀
 
 
-// Happy Chatting! 💬
-console.log("%cPingMe is awesome!", 
-  "color: #319795; font-size: 16px; font-weight: bold");
+
+
+</div>
+📦 Show Some Love
+bash
+Copy
+Edit
+git clone https://github.com/Akshayaa139/MERN-ChatAI.git
+Made with ❤️ by Akshayaa
+
+
+
+
+
