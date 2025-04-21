@@ -4,7 +4,9 @@
 
 A *feature-rich real-time messaging platform* built with cutting-edge technologies by a passionate Computer Science student. Connect instantly, share moments, and chat seamlessly!
 
-[![Demo Video](chatinterface.png)](https://youtu.be/JTu9LErT0Qk)
+[![Demo Video](chatinterface.png)](https://youtu.be/JTu9LErT0Qk) 
+
+Click this Pic to view your Demo
 
 ---
 
@@ -76,14 +78,14 @@ Let’s make *PingMe* even better together! 💪
 
 ---
 
-📧 *Contact Me*: [your.email@domain.com]  
-🌐 *Portfolio*: [yourportfolio.com]
+📧 *Contact Me*: [akshlearn13@gmail.com]  
+🌐 *Portfolio*: [https://akshayaa139.github.io/Portfolio/]
 
 ---
 
 <div align="center">
 
-*Built with ❤ by [Akshayaa US]*  
+*Built with ❤ by Akshayaa US*  
 A Computer Science student passionate about creating meaningful digital experiences.
 
 </div>
